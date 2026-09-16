@@ -6,8 +6,8 @@ Efficient spectrum sensing (SS) is crucial for optimizing wireless network perfo
   <img src="fig/DeSpecNet_main-1.png" alt="ReSpecNet Architecture" width="100%">
 </p>
 
-<p align="center">
-  <img src="fig/DSSL_main-1.png" alt="DSSL Module" width="100%">
+<p align="left">
+  <img src="fig/DSSL_main-1.png" alt="DSSL Module" width="60%">
 </p>
 
 ## Contact
